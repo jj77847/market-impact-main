@@ -19,8 +19,7 @@ Website demo design for Market Impact, updating a previous design that client wa
 
 - CSS
 - JavaScript
-- Material UI
-- React.js
+
 
 ### Deployed Application
 
@@ -32,10 +31,10 @@ MIT License
 
 ## Screenshots
 
-![home Page](screenshots/homepage.png)
+![home Page](/Users/jonathanjefferies/Desktop/market-impact-main/assets/images/homepage.png)
 
-![About Page](screenshots/aboutpage.png)
+![About Page](/Users/jonathanjefferies/Desktop/market-impact-main/assets/images/aboutpage.png)
 
-![Experience Page](screenshots/experience.png)
+![Experience Page](/Users/jonathanjefferies/Desktop/market-impact-main/assets/images/experiencepage.png)
 
-![Contact Page](screenshots/contactPage.png)
+![Contact Page](/Users/jonathanjefferies/Desktop/market-impact-main/assets/images/contactpage.png)
